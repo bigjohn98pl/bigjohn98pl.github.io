@@ -353,7 +353,65 @@ section {
   transition: 0.9s;
   background-color: #149ddd;
 }
-
+.skills .badge{
+  font-size: large;
+}
+.plastic{
+  color: white;
+  background-color: #ff410c;
+}
+.java-script{
+  color: white;
+  background-color: #d4b930;
+}
+.python{
+  color: white;
+  background-color: green;
+}
+.cLan{
+  color: white;
+  background-color:#293793;
+}
+.ciPlasPlas{
+  color: white;
+  background-color: #004281;
+}
+.stm32{
+  color: white;
+  background-color: #0795d5;
+}
+.matlab{
+  color: white;
+  background-color: #0b78b0;
+}
+.html_col{
+  color: white;
+  background-color: #e34f26;
+}
+.css_col{
+  color: white;
+  background-color: #1573b6;
+}
+.git{
+  color: #413100;
+  background-color: #f05133;
+}
+.plc{
+  color: white;
+  background-color: red
+}
+.g-code{
+  color: white;
+  background-color: #0e2442;
+}
+.inventor{
+  color: white;
+  background-color: #f26724;
+}
+.solid-works{
+  color: red;
+  background-color: white;
+}
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
