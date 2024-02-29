@@ -380,6 +380,12 @@ section {
   color: white;
   background-color: #0795d5;
 }
+.java {
+  color: #f89820;
+  background-color: white;
+  border: 1px solid #f89820;
+}
+
 .matlab{
   color: white;
   background-color: #0b78b0;
@@ -411,6 +417,7 @@ section {
 .solid-works{
   color: red;
   background-color: white;
+  border: 1px solid red;
 }
 /*--------------------------------------------------------------
 # Resume
