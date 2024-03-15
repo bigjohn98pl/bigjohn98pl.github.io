@@ -1,3 +1,3 @@
 [submodule "gitSubmodules/simon"]
-	path = gitSubmodules/simon
+	path = assets/subModules
 	url = https://github.com/bigjohn98pl/Simon.git
